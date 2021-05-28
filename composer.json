@@ -1,0 +1,15 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Source\\": "source/"
+		}
+	},
+	"require": {
+		"mercadopago/dx-php": "2.3.0"
+	},
+	"config": {
+	    "platform": {
+	        "php": "7.4.16"
+	    }
+    }
+}
