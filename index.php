@@ -35,5 +35,9 @@
 });
 </script>
 
+<div class=".cho-container">
+    botão teste    
+</div>
+
 // SDK MercadoPago.js V2
 <script src="https://sdk.mercadopago.com/js/v2"></script>
